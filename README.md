@@ -4,7 +4,7 @@ Optimizing a unique recursive function with dynamic programming and some math.
 
 ---
 
-Let's take a look at the RecursivePingulogy problem. We still have a function called pinguSequenceRec that I still don't quite understand. Let me explain the function.
+Let's take a look at the RecursivePingulogy problem. We have a function called pinguSequenceRec that I still don't quite understand. Let me explain the function.
 
 We have an initial vector **p = (p0, p1, p2)** and:
 
